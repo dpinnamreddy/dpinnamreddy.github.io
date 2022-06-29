@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.nav-icon {
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    font-size: 28px;
+    border: 2px solid coral;
+    padding: 5px;
+}
+
+.nav-fonts {
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.nav-custom-color {
+    color: #000000 !important;
+}
+
+.portfolio-dropdown-items {
+    font-size: 16px;
+    padding: 10px;
+}
+
+.main-background {
+    background-image: url('https://res.cloudinary.com/d10n3w01f/image/upload/v1656443293/IMG-20220325-WA0001_uz0pst.jpg');
+    height: 100vh;
+    background-size: cover;
+    font-family: Roboto;
+}
+
+.p-image-small {
+    width: 60%;
+    margin-top: 15vh;
+}
+
+.p-image-large {
+    width: 100%;
+}
+
+.btn-custom {
+    border-radius: 10px;
+    padding: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 1.25vh;
+    font-size: 1.25vw;
+}
+
+.main-heading-font {
+    font-size: 6vh;
+    font-size: 6vw;
+}
+
+.main-para-font {
+    font-size: 2.5vh;
+    font-size: 2.5vw;
+}
+
+.portfolio-page-heading {
+    font-size: 56px;
+    color: #191970;
+}
+
+.portfolio-heading {
+    color: #1434A4;
+}
+
+#portfolio-about {
+    font-family: Roboto;
+    text-align: justify;
+}
+
+.about-image {
+    height: 70vh;
+}
+
+.skill-card {
+    background-image: linear-gradient(to right, #007FFF, #0CAFFF);
+    border-radius: 20px;
+    color: #ffffff;
+    width: 100%;
+    height: 100%;
+}
+
+.skill-icon {
+    fill: #ffffff;
+    width: 50%;
+}
+
+.portfolio-modal {
+    text-align: left;
+    color: #191970;
+    font-size: 16px;
+}
+
+.education-card {
+    background-color: #FAF9F6;
+    border-radius: 20px;
+    color: #191970;
+    height: 100%;
+}
+
+.education-logo {
+    height: 150px;
+}
+
+.btn-more {
+    width: 100%;
+}
+
+.portfolio-side-nav {
+    width: 20vw;
+    background-image: linear-gradient(to right, #007FFF, #0CAFFF);
+    font-size: 100%;
+    height: 100vh;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.portfolio-item-color {
+    color: #ffffff;
+}
+
+.portfolio-side-nav-image-1 {
+    height: 50%;
+    width: 50%;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.portfolio-side-nav-image-2 {
+    height: 50%;
+    width: 50%;
+}
+
+.portfolio-work-exp {
+    color: #9aa5b1;
+}
+
+.portfolio-list {
+    font-family: Roboto;
+    text-align: justify;
+    color: #191970;
+}
+
+.portfolio-projects-card {
+    background-image: linear-gradient(to right, #007FFF, #0CAFFF);
+    border-radius: 20px;
+    height: 100%;
+}
+
+.project-icon {
+    font-size: 100px;
+}
+
+.project-link {
+    border: 2px solid coral;
+    padding: 5px;
+    margin-left: auto;
+}
+
+#portfolio-footer {
+    background-image: linear-gradient(#191970,#1434A4);
+}
+
+.portfolio-footer-image {
+    width: 100px;
+    border-radius: 100px;
+}
+
+.portfolio-footer-phrase {
+    font-size: 16px;
+}
+
+.footer-icon {
+    font-size: 20px;
+    background-color: #002D62;
+    border-radius: 40px;
+}
+
+.portfolio-footer-card {
+    font-size: 16px;
+}
+
+.portfolio-super-card {
+    height: 100%;
+}
