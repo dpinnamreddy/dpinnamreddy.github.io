@@ -42,8 +42,7 @@
     padding: 10px;
     padding-right: 30px;
     padding-left: 30px;
-    font-size: 1.25vh;
-    font-size: 1.25vw;
+    font-size: 12px;
 }
 
 .main-heading-font {
@@ -71,7 +70,7 @@
 }
 
 .about-image {
-    height: 70vh;
+    width: 100%;
 }
 
 .skill-card {
@@ -85,6 +84,12 @@
 .skill-icon {
     fill: #ffffff;
     width: 50%;
+}
+
+.skill-heading {
+    font-size: 100%;
+    font-family: Roboto;
+    font-weight: 1000;
 }
 
 .portfolio-modal {
@@ -109,7 +114,7 @@
 }
 
 .portfolio-side-nav {
-    width: 20vw;
+    width: 100%;
     background-image: linear-gradient(to right, #007FFF, #0CAFFF);
     font-size: 100%;
     height: 100vh;
@@ -120,6 +125,7 @@
 
 .portfolio-item-color {
     color: #ffffff;
+    font-size: 100%;
 }
 
 .portfolio-side-nav-image-1 {
@@ -185,4 +191,8 @@
 
 .portfolio-super-card {
     height: 100%;
+}
+
+hr.footer-line {
+    border-top: 2px solid whitesmoke;
 }
