@@ -292,4 +292,12 @@ i {
     .p-home-text {
         height: 90vh;
     }
+
+    .one {
+        align-self: flex-start;
+    }
+
+    .three {
+        align-self: flex-end;
+    }
 }
